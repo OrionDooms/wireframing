@@ -58,3 +58,27 @@ Figma is a cloud-based design and prototyping platform that allows users to crea
 
 ## How wireframes facilitate communication.
 The wireframes serves as a communication tool among team members, clients, and stakeholders, ensuring everyone is on the same page regarding the design and functionality.
+
+# Real-world scenario where wireframing identified potential usability issues.
+### The E-Commerce checkout page:
+A team was designing an e-commerce store for a local clothing shop. During the wireframing stage, they created a checkout page that included:
+* Shipping address form
+* Payment method options
+* Order summary section
+* “Place Order” button
+### The problem:
+While reviewing the wireframe the test users, found several problems came up:
+* The “Place Order” button was too close to the payment section.
+* Users were unsure when they would see the delivery fee—it only appeared after filling in the entire address.
+* On smaller screens, the order summary section was pushed too far down.
+### How it was Resolved:
+* The team moved the “Place Order” button to the bottom of the page.
+* They updated the wireframe to show delivery fees once a user selected their location.
+* On mobile wireframes, the order summary was placed in a collapsible panel that stayed accessible at the top.
+### The impact on the final product:
+* Reduced user errors during checkout.
+* Improved user confidence by clearly showing the total cost early.
+* The mobile version became more responsive and user-friendly.
+
+# Role of wireframing in user-friendly design.
+Wireframing helps catch design issues before a single line of code is written. It gives teams a chance to test layout ideas, understand the user journey, and make improvements early for a smoother development process and a better product overall.
