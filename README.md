@@ -1,9 +1,9 @@
 # wireframing
 
-# What is wireframing?
+## What is wireframing?
 Wireframing is a crucial step in the design process, serving as a blueprint or skeletal framework of a website or application. It outlines the basic structure and layout without delving into detailed design elements like colors, fonts, or images. Wireframes focus on the placement of elements, navigation flow, and overall user interface structure.
 
-# Importance of Wireframing in the Design Process
+## Importance of Wireframing in the Design Process
 1. **Clarifies Ideas and Concepts:** Wireframing helps turn abstract ideas into visuals, allowing designers and stakeholders to understand the structure and flow of a project early in the process.
 
 2. **Facilitates Communication:** It serves as a common visual language for team members, clients, and stakeholders, ensuring everyone on the design direction and functionality.
@@ -20,13 +20,13 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 
 8. **Focuses on Functionality and User Experience:** By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
 
-# Key Elements in a Wireframeorgai
+## Key Elements in a Wireframeorgai
 * Layout Structure: Defines the arrangement of elements on the page.
 * Navigation: Shows how users will move through the site or application.
 * Content Placement: Indicates where text, images, and other content will be positioned.
 * Functionality: Outlines key functionalities and interactions.
 
-# Types of Wireframes.
+## Types of Wireframes.
 * **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 * **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
 
@@ -59,7 +59,7 @@ Figma is a cloud-based design and prototyping platform that allows users to crea
 ## How wireframes facilitate communication.
 The wireframes serves as a communication tool among team members, clients, and stakeholders, ensuring everyone is on the same page regarding the design and functionality.
 
-# Real-world scenario where wireframing identified potential usability issues.
+## Real-world scenario where wireframing identified potential usability issues.
 ### The E-Commerce checkout page:
 A team was designing an e-commerce store for a local clothing shop. During the wireframing stage, they created a checkout page that included:
 * Shipping address form
@@ -80,5 +80,5 @@ While reviewing the wireframe the test users, found several problems came up:
 * Improved user confidence by clearly showing the total cost early.
 * The mobile version became more responsive and user-friendly.
 
-# Role of wireframing in user-friendly design.
+## Role of wireframing in user-friendly design.
 Wireframing helps catch design issues before a single line of code is written. It gives teams a chance to test layout ideas, understand the user journey, and make improvements early for a smoother development process and a better product overall.
