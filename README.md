@@ -32,6 +32,10 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 
 ## Wireframing tools.
 Wireframing tools help designers create layout that outline the structure and the functionlity of a digital products.
+* **Figma:** Ideal for collabortive teams, remote teams, rapid prototyping, transitioning form low-fidelity wireframes to high-fidelity designs within the same tool.
+* **Adobe XD:** Strong for creating interactive protoypes with animations and transitions.
+* **Balsamiq:** Encourages focusing on functionality and structure rather than visual details, which helps prevent premature design decisions.
+* **Sketch:** Powerful tools for precise vector based designs.
 
 ## Figma
 Figma is a cloud-based design and prototyping platform that allows users to create, share, and test designs for websites, mobile appes, and other digital products. It has become a go-to for designers, product managers, and developers alike.
@@ -44,3 +48,13 @@ Figma is a cloud-based design and prototyping platform that allows users to crea
 * Prototyping Tools: Link frames to simulate navigation and user flows.
 * Version History: Track changes and revert to earlier versions easily.
 * Integration Friendly: Works well with tools like Slack, JIRA, and Notion.
+
+## Benefits of wireframing from a software development perspective.
+1. **Clear project vision:** Wireframes provide a visual representation of the product early in the development cycle.
+2. **Guides Architecture and component planning:** Wireframes help developers plan the structure of front-end components and even back-end APIs.
+3. **Better Collaboration Between Teams:** Developers, designers, and stakeholders can use wireframes as a shared reference point.
+4. **Time and cost efficiency:** Spotting UX or layout issues during the wireframe stage saves time compared to fixing them during or after development.
+5. **Simplifies Testing:** Testers can use wireframes to understand intended functionality and write early test cases.
+
+## How wireframes facilitate communication.
+The wireframes serves as a communication tool among team members, clients, and stakeholders, ensuring everyone is on the same page regarding the design and functionality.
